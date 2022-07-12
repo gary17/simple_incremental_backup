@@ -1,2 +1,2 @@
-# simle_incremental_backup
-A straightforward incremental backup tool for regular and ZFS filesystems.
+# Simle Incremental Backup (SIB)
+A straightforward incremental backup (sync) tool with support for regular and ZFS filesystems.
